@@ -4,7 +4,7 @@ I decided to reverse their anticheat,
 and I saw something that shocked me. It checks by .exe and window name—basically, the strings aren't even obfuscated. the worst anticheat ever. 
 That's why I'm sharing the complete bypass of the anti-cheat and IMGUI detection, etc.
 
-I'm not sharing the source code because I'm giving the creator a month to contact me (@ntwritefile on discord ).
+  I'm not sharing the source code because I'm giving the creator 2 day to contact me (@ntwritefile on discord ).
 
 here some of their anticheat check... prepare your eyes...
 
